@@ -95,3 +95,23 @@ project_directory/
             │       ├── error_vs_true.pdf
             │       └── test_metrics_summary.json
 ```
+
+
+
+
+
+## Acknowledgements
+
+This work has been supported by the Business Finland through project SeQuSoS (112/31/2024).
+
+# Contributors
+
+- Shaswato Sarker  - ([@TheCatWalk](https://github.com/TheCatWalk)), *University of Jyväskylä*
+- Majid Haghparast - ([@MajidHaghparast](https://github.com/MajidHaghparast)), *University of Jyväskylä*
+
+## Contact
+
+Majid Haghparast <<majid.m.haghparast@jyu.fi>>
+
+
+
