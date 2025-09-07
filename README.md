@@ -1,4 +1,4 @@
-# Crosstalk
+# TripleBranchNet
 This repository contains a series of Python scripts to download, preprocess, analyze, train, and evaluate a machine learning model for the purpose of detecting crosstalk induced fidelity degredation in MNISQ based circuits.
 
 # Directory Structure
