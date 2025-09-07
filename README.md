@@ -1,7 +1,7 @@
 # TripleBranchNet
 This repository contains a series of Python scripts to download, preprocess, analyze, train, and evaluate a machine learning model for the purpose of detecting crosstalk induced fidelity degredation in MNISQ based circuits.
 
-## How to cite
+# How to cite
 
 TripleBranchNet is free-to-use and to modify. However, you must add reference [1] in case of any publication/production/execution/etc.
 
